@@ -1,4 +1,5 @@
-# Project-1-DataMining-
+# Airbnb-Data-Analysis-
+
 
 Data: The data contains three directories for three months (Aril,March and February) of 2019. Each of those includes information from AirBnB platform such as id,zipcode,transit,Bedrooms,Beds,Review_scores_rating,Number_of_reviews,Neighbourhood,etc.
 
